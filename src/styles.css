@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+/* @import url("https://grab-ui.netlify.app/components/grab-ui.css");
+@import url("https://grab-ui.netlify.app/styles.css"); */
+
+:root {
+  --primary-color: #2874f0;
+  --border-color: #14213d;
+  --background-color: #ffffff;
+  --ow-font-color: #fff;
+  --font-color: #212121;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  /* background: #f3f4f6; */
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 5rem;
+  background: var(--primary-color);
+  grid-area: header;
+}
+
+.container {
+  display: grid;
+  width: 100%;
+  height: 100%;
+  grid-template-areas:
+    "header header"
+    "aside main";
+  grid-template-rows: 65px 2fr;
+  grid-template-columns: 1fr 3fr;
+}
+
+.container__aside {
+  margin-top: -60px;
+  margin-left: 10px;
+  grid-area: aside;
+  width: 22%;
+  height: auto;
+  box-sizing: border-box;
+  overflow: auto;
+  position: fixed;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #f0f0f0;
+  box-shadow: 0 1px 8px 0 rgb(0 0 0 / 6%);
+  background: #f9fafb;
+  /* font-size: 1.5rem; */
+  overflow: auto;
+}
+
+.filter {
+  position: relative;
+}
+
+.filter-title {
+  padding: 1rem 0rem;
+  /* font-size: large; */
+  border-bottom: 1px solid #d1d5db;
+}
+
+.filter--clear {
+  position: absolute;
+  top: 3%;
+  left: 65%;
+  color: var(--primary-color);
+  cursor: pointer;
+}
+.filter-head {
+  padding: 0.5rem 0.5rem 0.4rem 0rem;
+}
+
+.filter-content-container {
+  border-bottom: 1px solid #d1d5db;
+}
+
+.filter-content {
+  margin: 0.1rem 0;
+  cursor: pointer;
+}
+
+.container__main {
+  grid-area: main;
+  max-width: 100%;
+  /* padding: 5rem 10rem; */
+  height: 100vh;
+  margin-bottom: 3rem;
+  /* overflow: auto; */
+}

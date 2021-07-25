@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "_id": "6094d090463ad20098fadfed",
+      "name": "Cotton Polyester Blend Printed Shirt Fabric  (Unstitched)",
+      "discountedPrice": 449,
+      "realPrice": 1400,
+      "offer": 67,
+      "availableSizes": ["S", "M", "L", "XL"],
+      "brand": "OPINA",
+      "suitableFor": "Men",
+      "inStock": true,
+      "fastDelivery": true,
+      "ratings": 3.6,
+      "imageUrl": "https://rukminim1.flixcart.com/image/452/542/kq2o2vk0/shirt/7/b/c/free-cotton-polyester-blend-printed-shirt-unticheted-opina-original-imag45skmpw62kgh.jpeg?q=50"
+    },
+    {
+      "_id": "6094d2e42bc50f00f4fdae36",
+      "name": "Solid Men Polo Neck Red T-Shirt",
+      "discountedPrice": 449,
+      "realPrice": 899,
+      "offer": 50,
+      "availableSizes": ["M", "L", "XL", "XXL"],
+      "brand": "VAN HEUSEN SPORT",
+      "suitableFor": "Men",
+      "inStock": true,
+      "fastDelivery": false,
+      "ratings": 4.3,
+      "imageUrl": "https://rukminim1.flixcart.com/image/452/542/kdrpksw0-0/t-shirt/5/p/k/m-vskpwrgp118780-van-heusen-sport-original-imafukvunnyqtkwx.jpeg?q=50"
+    },
+    {
+      "_id": "6094d45d72529a018425bdcd",
+      "name": "Solid Men Hooded Neck Yellow T-Shirt",
+      "discountedPrice": 255,
+      "realPrice": 999,
+      "offer": 74,
+      "availableSizes": ["S", "M", "L", "XL", "3XL"],
+      "brand": "HELMONT",
+      "suitableFor": "Men",
+      "inStock": false,
+      "fastDelivery": false,
+      "ratings": 4,
+      "imageUrl": "https://rukminim1.flixcart.com/image/800/960/kflftzk0-0/t-shirt/p/d/v/l-hm-1001-mustard-black-helmont-original-imafwyfb2tqmjdhw.jpeg?q=50"
+    },
+    {
+      "_id": "6094d5682a082401ff08ed05",
+      "name": "2 Piece Self Design Men Suit",
+      "discountedPrice": 13699,
+      "realPrice": 13620,
+      "offer": 2,
+      "availableSizes": ["S", "M", "XL", "2XL"],
+      "brand": "HELMONT",
+      "suitableFor": "Men",
+      "inStock": true,
+      "fastDelivery": true,
+      "ratings": 4.7,
+      "imageUrl": "https://rukminim1.flixcart.com/image/800/960/kkzrpu80/suit/l/7/j/40-nl-tyler1-beige-blackberrys-original-imagy7uqvambzjet.jpeg?q=50"
+    },
+    {
+      "_id": "6094d6aa25ff1d02777c05ac",
+      "name": "Women Fit and Flare Multicolor Dress",
+      "discountedPrice": 573,
+      "realPrice": 1699,
+      "offer": 66,
+      "availableSizes": ["S", "M", "L", "XL", "2XL"],
+      "brand": "HARPA",
+      "suitableFor": "Women",
+      "inStock": true,
+      "fastDelivery": true,
+      "ratings": 4.1,
+      "imageUrl": "https://rukminim1.flixcart.com/image/800/960/kflftzk0/dress/g/g/e/m-gr3308-multi-harpa-original-imafwyxj28gzh83n.jpeg?q=50"
+    },
+    {
+      "_id": "6094dc32a38337006ef8a490",
+      "name": "Women Fit and Flare Multicolor Dress",
+      "discountedPrice": 479,
+      "realPrice": 1699,
+      "offer": 76,
+      "availableSizes": ["S", "M", "XL"],
+      "brand": "THE DRY STATE",
+      "suitableFor": "Women",
+      "inStock": true,
+      "fastDelivery": false,
+      "ratings": 3.5,
+      "imageUrl": "https://rukminim1.flixcart.com/image/452/542/kb6tyfk0/dress/a/c/r/m-tk2001-light-pink-1-m-queenlike-original-imafshmygsyyajpb.jpeg?q=50"
+    },
+    {
+      "_id": "6094dd920c43ba00c1bc0ff0",
+      "name": "Women Fit and Flare Multicolor Dress",
+      "discountedPrice": 14999,
+      "realPrice": 12999,
+      "offer": 13,
+      "availableSizes": ["S", "M", "L"],
+      "brand": "Exortic Fashion",
+      "suitableFor": "Women",
+      "inStock": false,
+      "fastDelivery": false,
+      "ratings": 4.8,
+      "imageUrl": "https://rukminim1.flixcart.com/image/452/542/krgohow0/dress/q/z/l/xl-sahaja08-sanjana-sells-original-imag58prearq27gz.jpeg?q=50"
+    }
+  ]
+}
